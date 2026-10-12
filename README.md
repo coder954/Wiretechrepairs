@@ -1,3 +1,3 @@
 # Wiretechrepairs
 
-https://coder954.github.io/Wiretechrepairs/index.html
+https://coder954.github.io/Wiretechrepairs/
